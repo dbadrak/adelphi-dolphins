@@ -13,7 +13,7 @@
 * please give the rule book a re-read before tomorrow
   * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-mini-rulebook.pdf
   * also, the PMSL handbook: https://princemont.org/2023/2023_PMSL_Handbook.pdf
-* if you are running late or for some reason can't make it, please call/text me: 240-917-1824
+* if you are running late or for some reason can't make it, please let me know
 * please jot down some notes or keep track of thoughts during the meet about how things are running, and offer up some feedback post meet.  Stuff we did well, stuff less well, etc.
 
 ## Pool Details
