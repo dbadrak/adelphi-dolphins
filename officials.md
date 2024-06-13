@@ -5,6 +5,7 @@
 * standard uniforms: navy shorts, pants or skirt; white polo top
 * bring a refillable water bottle and stay hydrated
 * wear a hat
+* sunscreen
 * perhaps have some snacks in your pocket
 * be flexible. This is our first meet with the new pool configuration and logistics have been upheaved. Some stuff may change on the fly.  Becky and other are working super hard to make sure we've got a smooth meet, but this is a trial for operating a meet as much as for times
 * we will have our officials briefing at 7:45am.  Normally, it will be 8:00am. This is a bit earlier than normal to go over things as much has changed. Where this will be, I'm not certain yet. We'll have an announcement.
@@ -19,9 +20,13 @@
 ## Pool Details
 
 * The pool is 25m, with backstroke flags at 5m on both ends.
+* It is 5 ft deep throughout the course, at both the start and turn ends.
+* Outside of lane 1 and 6 to the wall is a 1 ft buffer with the ladders, which have a lane rope protecting it
 * The start end is closest to the fence. The turn end is closest to the pool house. There are 6 lanes.
 * The lane lines are marked in red for 15m (each direction). We'll have a marking on the pool deck (by the diving boards) for 15m. We may observe this with a CJ during meets, but not likely tomorrow.  We'll use the red marks and it has to be definitive.
 * We will not walk for stroke in  any event, as this new layout does not permit it
+* The coping stones provide a 1/2" lip from the wall.
+* There is no gutter
 
 ## Jursidiction
 
@@ -30,6 +35,9 @@
 * S&T will be positioned as follows
   * lanes 1,2,3 on the line between 2 and 3 (two lanes to one side, one to the other)
   * lanes 4,5,6 on the line between 4 and 5 (two lanes to one side, one to the other)
+* Step to the wall when the swimmer is in your jurisdiction, and step back when they leave.
+* You will need to step fully to the edge and lean over to see the wall due to the 1/2 lip
+* Start end, stay back for the start (3 ft or more), and step forward after the start
 * Freestyle events will have S&T at corners (lane 1 and lane 6 sides), watching that the swimmer touches the wall.
 * S&T will rotate after events (6 total event/event groups, 4 total rotations).  After the break, S&T will return to their positions held during IM
   * after butterfly
@@ -47,3 +55,6 @@
 * The S&T will need to spot and call out
   * improper suits
   * any sort of support tape
+
+* Back
+  * watch for grabbing on the lane rope and pulling, not just pushing away
