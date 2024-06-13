@@ -43,7 +43,6 @@
   * 200m MR -- 2 judges start end (starter/ref, or if we have multiple extra S&T we will use them as needed)
   * 100m 8U FR -- 2 judges start end, 2 judges turn end.  The S&T will act as takeoff judges.
   * 200m FR -- 2 judges, start end. The S&T will act as takeoff judges.
-* We have 3 home meets and 2 away meets, and time trials (another home meet)
 * If we want to use a CJ (turn side) we need to get agreement from the other team. I don't think this will be an issue.  It would speed up the breaststroke
 * The S&T will need to spot and call out
   * improper suits
