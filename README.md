@@ -1,2 +1,2 @@
 # adelphi-dolphins
-Details about the Adelphi Dolphins Swim TEam
+Details about the Adelphi Dolphins Swim Team
