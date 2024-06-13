@@ -19,6 +19,8 @@
 
 ## Pool Details
 
+![Pool Layout](images/competition-pool.drawio.png)
+
 * The pool is 25m, with backstroke flags at 5m on both ends.
 * It is 5 ft deep throughout the course, at both the start and turn ends.
 * Outside of lane 1 and 6 to the wall is a 1 ft buffer with the ladders, which have a lane rope protecting it
