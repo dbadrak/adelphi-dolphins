@@ -2,6 +2,7 @@
 
 ## Preparation 
 
+* Thank you for volunteering!
 * Standard uniforms apply:  navy shorts, pants or skirt and a white polo top.
 * Bring a refillable water bottle and stay hydrated.
 * Wear a hat.
