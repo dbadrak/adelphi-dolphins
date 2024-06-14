@@ -23,7 +23,7 @@
 * It is 5 ft deep throughout the course, at both the start and turn ends.
 * Outside of lane 1 and 6 (to the wall) is a 1 ft buffer containing the ladders, which have a lane rope protecting it.
 * The start end is closest to the fence. The turn end is closest to the pool house. There are 6 lanes.
-* The lane lines are marked in red for 15m (each direction). We'll have a marking on the pool deck (by the diving boards) for 15m. We will observe this with a CJ.
+* The lane lines are marked in red for 15m (each direction). We'll have a marking on the pool deck (by the diving boards) for 15m. We will observe this with a Chief Judge (CJ).
 * We will not walk for stroke in any event.
 * The coping stones have a 1/2 inch lip from the wall.
 * There is no gutter.  The top edge of the pool is about 6 inches or more from the water line.
