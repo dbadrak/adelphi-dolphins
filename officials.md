@@ -13,7 +13,7 @@
 * Please give the rule book and handbook a re-read before arriving at the meet:
   * 2024 Rules: https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-mini-rulebook.pdf
   * 2024 PMSL Handbook: https://princemont.org/2023/2023_PMSL_Handbook.pdf
-* If you are running late or for some reason can't make it, please a team respresentative know (if you are an AR S&T, please call Don Badrak).
+* If you are running late or for some reason can't make it, please a team respresentative know (if you are an Adelphi (AR) official, please call Don Badrak, Naomi Chavez, or Becky Widman).
 
 ## Pool Details
 
