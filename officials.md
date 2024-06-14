@@ -1,8 +1,8 @@
 # Adelphi Dolphins Officials Information
 
-## Prepartion 
+## Preparation 
 
-* Sstandard uniforms apply:  navy shorts, pants or skirt and a white polo top.
+* Standard uniforms apply:  navy shorts, pants or skirt and a white polo top.
 * Bring a refillable water bottle and stay hydrated.
 * Wear a hat.
 * Use sunscreen.
