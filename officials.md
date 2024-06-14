@@ -65,6 +65,7 @@ their own team's S&T(s) when we change events.
   * after breast (events 21-30)
   * after back (events 31-40)
   * do IM (events 41-46), break, relays (events 47-49), then done
+* We will rotate clockwise.
 * After the break we will do the 8U relay and the 200 FR
 * For relay take off judging, we will watch all 6 lanes (from the outside of lane 1 and 6):
   * 200m MR (events 1,2) -- 4 S&T in stoke and turn positions, and 2 take-off judges on the start end (starter/ref or extra S&Ts if we have them).
