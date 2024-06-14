@@ -45,6 +45,8 @@ You write it down as you may have a number of violations in a short time period 
 * Be ready to describe your observation in terms of the rule book style of violation.
 If it is a single hand touch, note which hand, and where the other hand was located.  Note where the violation occurs (which pool length, which stroke for IM, approaching the turn or leaving the
 wall, etc.).
+* The CJ will take order of finish for the 25m events (turn end).
+* The CJ will adjudicate violations at the turn end, and will place their initials next to the judge's name. The referee approves or rejects all DQs.
 
 ## Jursidiction
 
