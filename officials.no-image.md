@@ -33,10 +33,12 @@
 
 * Backstroke
   * Watch for grabbing on the lane rope and pulling, not just pushing away.
+  * Resubmerge after the flags immediately before finish
 * Butterfly
 * Breakstroke
 * Freestyle
 * Individual Medley
+  * back finish on back, watch for flip turns
 * Freestyle Relay
 * Medley Relay
 * The benefit of the doubt goes to the swimmer.
@@ -45,8 +47,26 @@ You write it down as you may have a number of violations in a short time period 
 * Be ready to describe your observation in terms of the rule book style of violation.
 If it is a single hand touch, note which hand, and where the other hand was located.  Note where the violation occurs (which pool length, which stroke for IM, approaching the turn or leaving the
 wall, etc.).
-* The CJ will take order of finish for the 25m events (turn end).
+
+# Chief Judge
+
+* The CJ will take order of finish (OOF) for the 25m events (turn end), standing outside of lane 1 (closest to the diving board).
 * The CJ will adjudicate violations at the turn end, and will place their initials next to the judge's name. The referee approves or rejects all DQs.
+* The CJ will stand at the 15m mark for events which require surfacing by the mark (butterfly, back, free) for events 50m or longer.
+* Turn in the program to the data table at the end of the meet, labelled at the top with "CJ" and your name.
+* If there is a lane with no swimmer and there should be one, cross off that name/lane on your program.
+* If there is a lane which should not have a swimmer and one swims, note that there is a swimmer in that lane, maybe writing "swimmer" (as you won't be able to get the name). This could happen
+if someone swims in the wrong heat or lane, or if heats have been collapsed, or swimmers moved around.
+
+# Starter
+
+* To indicate a false start, the starter will circle the swimmer's lane number(s) and initiate a call with the referee, something "I have a possible false start", and show the clipboard
+to the referee. If the referee also confirms the same swimmer, it is a false start (and a discussion over what may have caused it).  If determined to actually be a false start, the starter will write up the DQ slip (the ref will provide one).
+* The starter will take order of finish for the 50m and 100m events (start end).  If the CJ appears to be not in position for OOF for a 25m event, the starter will attempt to record
+* Turn in the program to the data table at the end of the meet, labelled at the top with "Starter" and your name.
+* If there is a lane with no swimmer and there should be one, cross off that name/lane on your program.
+* If there is a lane which should not have a swimmer and one swims, note that there is a swimmer in that lane, maybe writing "swimmer" (as you won't be able to get the name). This could happen
+if someone swims in the wrong heat or lane, or if heats have been collapsed, or swimmers moved around.  Clerk of Course will generally notify the referee and maybe the starter if there is time.
 
 ## Jursidiction
 
