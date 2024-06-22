@@ -50,7 +50,7 @@ You write it down as you may have a number of violations in a short time period 
 If it is a single hand touch, note which hand, and where the other hand was located.  Note where the violation occurs (which pool length, which stroke for IM, approaching the turn or leaving the
 wall, etc.).
 
-# Chief Judge
+## Chief Judge
 
 * The CJ will take order of finish (OOF) for the 25m events (turn end), standing outside of lane 1 (closest to the diving board).
 * The CJ will adjudicate violations at the turn end, and will place their initials next to the judge's name. The referee approves or rejects all DQs.
@@ -60,7 +60,7 @@ wall, etc.).
 * If there is a lane which should not have a swimmer and one swims, note that there is a swimmer in that lane, maybe writing "swimmer" (as you won't be able to get the name). This could happen
 if someone swims in the wrong heat or lane, or if heats have been collapsed, or swimmers moved around.
 
-# Starter
+## Starter
 
 * To indicate a false start, the starter will circle the swimmer's lane number(s) and initiate a call with the referee, something "I have a possible false start", and show the clipboard
 to the referee. If the referee also confirms the same swimmer, it is a false start (and a discussion over what may have caused it).  If determined to actually be a false start, the starter will write up the DQ slip (the ref will provide one).
