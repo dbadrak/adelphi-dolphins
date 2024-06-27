@@ -1,5 +1,7 @@
 # Adelphi Dolphins Timers Information
 
+* [PVS Timer Briefing](https://www.pvswim.org/official/training/TimersBriefing.pdf)
+
 * Thank you for timing!
 * Timer briefing at 8:00am. The meet will start at 8:30. Please in position by 8:25.
 * Please check in with the data table when you arrive. This will be on deck by the slide.  Write your name and team in a specific lane slot allocated to your team.
