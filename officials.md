@@ -125,9 +125,7 @@ Here are some optional documents for reference. These are not required reading.
 
 # CHANGELOG
 
-- 1.0.16 -- 2024-06-14
+- 1.0.16 -- 2024-06-14  
   - created for 2024 season
-
-- 2.0.0 -- 2025-06-06
+- 2.0.0 -- 2025-06-06  
   - updated for 2025 season
-
