@@ -7,14 +7,16 @@
 * Bring a refillable water bottle and stay hydrated.
 * Wear a hat.
 * Use sunscreen.
+* Wear shoes that can get wet. They will get wet. Consider bringing a change of socks and shoes.
 * Have a rain jacket handy in case the weather turns poor.
 * Maybe have some snacks in your pocket.  Generally someone will come around and offer water and likely snacks.
 * We will have our officials briefing at 8:00am.  It will be at the picnic table behind the data table (look for the other white shirts!).
 * The meet starts at 8:30am, please be in position by 8:25am.
 * Please check in with the data table when you arrive. This will be on deck by the slide.  Write your name, phone number, and team.
 * Please give the rule book and handbook a re-read before arriving at the meet:
-  * 2024 Rules: https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-mini-rulebook.pdf
-  * 2024 PMSL Handbook: https://princemont.org/2023/2023_PMSL_Handbook.pdf
+  * 2025 Rules: [mini](https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2025-mini-rulebook.pdf) |
+ [full](https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2025-rulebook.pdf)
+  * 2025 PMSL Handbook: [handbook](https://www.princemont.org/_files/ugd/b37408_0e4dfdb6c571482ab3d79506a1db55db.pdf)
 * If you are running late or for some reason can't make it, please a team respresentative know (if you are an Adelphi (AR) official, please call Don Badrak, Naomi Chavez, or Becky Widman).
 
 ## Pool Details
@@ -102,3 +104,30 @@ We require dual confirmation.  The referee will confer with the closest TOJ. If 
   * Improper suits
   * Any sort of kinetic support tape
   * We will try to have identified any suit waivers in advance.
+
+## Additional References
+
+Here are some optional documents for reference. These are not required reading.
+
+* S&T situations (updated)
+  * https://www.usaswimming.org/docs/default-source/officialsdocuments/officials-training-resources/situations-and-resolutions/situations-and-resolutions-stroke-and-turn.pdf
+* Starter/Referee situations (updated)
+  * https://www.usaswimming.org/docs/default-source/officialsdocuments/officials-training-resources/situations-and-resolutions/situations-and-resolutions-starter-and-deck-referee.pdf
+* Stroke Briefing
+  * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/officials-training-resources/clinic-resources/officials-briefing.pdf
+* Professional ST (stroke and turn)
+  * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/national-certification-and-evaluation/professional-official/professional-stroke-and-turn-official-apr24.pdf
+* Professional SR (starter)
+  * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/national-certification-and-evaluation/professional-official/professional-starter-may25.pdf
+* Professional DR (deck referee)
+  * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/national-certification-and-evaluation/professional-official/professional-deck-referee-may25.pdf
+ 
+
+# CHANGELOG
+
+- 1.0.16 -- 2024-06-14
+  - created for 2024 season
+
+- 2.0.0 -- 2025-06-06
+  - updated for 2025 season
+
