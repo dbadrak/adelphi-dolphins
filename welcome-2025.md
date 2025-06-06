@@ -8,9 +8,8 @@ Naomi (officials coordinator, team rep) and I (head official) are also returning
 
 Here are some links to cover some of the logistics (I do need some updates!) and details.
  
-
-For everyone: https://github.com/dbadrak/adelphi-dolphins/blob/main/officials.md
-For starters: https://github.com/dbadrak/adelphi-dolphins/blob/main/timers.md
+* For everyone: https://github.com/dbadrak/adelphi-dolphins/blob/main/officials.md
+* For starters: https://github.com/dbadrak/adelphi-dolphins/blob/main/timers.md
 
 If you've got any questions after going through these, please let me know and I can update the document. Any questions at all.
 
