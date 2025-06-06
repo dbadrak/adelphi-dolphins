@@ -115,6 +115,8 @@ Here are some optional documents for reference. These are not required reading.
   * https://www.usaswimming.org/docs/default-source/officialsdocuments/officials-training-resources/situations-and-resolutions/situations-and-resolutions-starter-and-deck-referee.pdf
 * Stroke Briefing
   * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/officials-training-resources/clinic-resources/officials-briefing.pdf
+* PVS Timer Briefing
+  * https://www.pvswim.org/official/training/TimersBriefing.pdf
 * Professional ST (stroke and turn)
   * https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/officialsdocuments/national-certification-and-evaluation/professional-official/professional-stroke-and-turn-official-apr24.pdf
 * Professional SR (starter)
