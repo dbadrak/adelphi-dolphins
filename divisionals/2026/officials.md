@@ -14,13 +14,13 @@
 * The meet starts at 8:30am, please be in position by 8:25am.
 * Please check in with the data table when you arrive. This will be on deck by the slide.  Write your name, phone number, and team.
 * Please give the rule book and handbook a re-read before arriving at the meet:
-  * 2065 Rules: [mini](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-mini-rulebook.pdf)
- [full](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-rulebook.pdf)
-	* 2026 PMSL Handbook: [handbook](https://www.princemont.org/_files/ugd/b37408_e19c4f7f6b8e45c7bcc46297309a86fb.pdf)
+  * [2026 Rules Mmini](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-mini-rulebook.pdf)
+  * [2026 Rules Full](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-rulebook.pdf)
+  * [2026 PMSL Handbookk](https://www.princemont.org/_files/ugd/b37408_e19c4f7f6b8e45c7bcc46297309a86fb.pdf)
 
 ## Pool Details
 
-![Pool Layout](images/competition-pool.drawio.png)
+![Pool Layout](../images/competition-pool.drawio.png)
 
 * The pool is 25m, with backstroke flags at 5m on both ends.
 * It is 5 ft deep throughout the course, at both the start and turn ends.
