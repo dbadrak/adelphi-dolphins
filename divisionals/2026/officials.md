@@ -10,9 +10,10 @@
 * Wear shoes that can get wet. They will get wet. Consider bringing a change of socks and shoes.
 * Have a rain jacket handy in case the weather turns poor.
 * Maybe have some snacks in your pocket.  Generally someone will come around and offer water and likely snacks.
-* We will have our officials briefing at 8:00am.  The location will be announced.
-* The meet starts at 8:30am, please be in position by 8:25am.
 * Please check in with the data table when you arrive. This will be on deck by the slide.  Write your name, phone number, and team.
+* Timers briefing will be given by the starters, at 8:10 by the far side of the pool house (changes will be announced).
+* We will have our officials briefing at 8:00am.  The location will be at the far side of the pool house by the gear pickup (changes will be announced).
+* The meet starts at 8:30am, please be in position by 8:25am.
 * Please give the rule book and handbook a re-read before arriving at the meet:
   * [2026 Rules Mmini](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-mini-rulebook.pdf)
   * [2026 Rules Full](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-rulebook.pdf)
