@@ -1,4 +1,4 @@
-# 2026 PSML A Divisional Championship Officials Information 
+# 2026 PSML Divisional A Championship Officials Information 
 
 ## Preparation 
 
