@@ -115,7 +115,7 @@ We require dual confirmation.  The referee will confer with the closest TOJ. If 
 
 ## Links
 
-* [Timer Briefing](timers.md) || [PDF](pmsl-2026-a-timers.pdf)
+* [Timer Briefing](timers.md) | [PDF](pmsl-2026-a-timers.pdf)
 * [This Document PDF](pmsl-2026-a-protocol-jurisdiction.pdf)
 * [Officials List](pmsl-2026-a-officials-list.pdf)
 * [Officials Schedule](pmsl-2026-a-schedule.pdf)
