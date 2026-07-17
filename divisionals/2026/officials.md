@@ -118,5 +118,6 @@ We require dual confirmation.  The referee will confer with the closest TOJ. If 
 * [This Document](pmsl-2026-a-protocol-jurisdiction.pdf)
 * [Officials List](pmsl-2026-a-officials-list.pdf)
 * [Officials Schedule](pmsl-2026-a-schedule.pdf)
-* [Coaches and Representative Informatoion](pmsl-2026-a-coaches.pdf)
+* [Coaches and Representative Information](pmsl-2026-a-coaches.pdf)
 * [Notable Rules and Changes](pmsl-2026-a-rules.pdf)
+* [Information and Rules Combined](pmsl-2026-a-coaches+rules.pdf)
