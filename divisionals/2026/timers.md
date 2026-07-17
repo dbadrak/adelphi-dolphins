@@ -20,6 +20,7 @@ been reseeded, but they may also be in the wrong heat.
 * You *will* need to step fully to the edge and lean over to see the wall due to the 1/2 inch lip.  You cannot see the touch otherwise.  You *will* get wet.
 * At the start end, stay back for the start, behind the swimmers, approximately 3 ft behind the edge.  The starter needs a clear view of the swimmers.
 * If the watch doesn't start, or you miss the start, raise your hand and the head timer will swap out a watch.
+* The head timer will tell you to clear your watches at the end of each heat.
 * For 25m events (8U events, 10U butterfly), the timers will move to the turn end, which will be the finish end for the swimmers.  Proceed to the turn end
 clockwise (to your left, around the slide, towards the shallow end).
 * To return to the start end for 50m and greater events, proceed counter-clockwise (opposite the way you got there, towards your right).
