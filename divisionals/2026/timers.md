@@ -1,4 +1,4 @@
-# 2026 PSML Divisional A Championship Timers Briefing
+# 2026 PSML Division A Championship Timers Briefing
 
 * Thank you for timing!
 * Timer briefing at 8:10am. The location will be announced. The meet will start at 8:30. Please in position by 8:25.
