@@ -38,6 +38,8 @@
 * Backstroke
   * Watch for grabbing on the lane rope and pulling, not just pushing away.
   * Resubmerge after the flags immediately before finish ok now
+  * Watch toes throughout the race.  After 2nd long whistle, if toes proper, put your hands behind your back.  If not, hold an arm out and ask the swimmer to fix their toes.
+This means one two from each foot on the wall.
 * Butterfly
   * Resubmerge after the flags immediately before finish ok now
 * Breakstroke
@@ -65,45 +67,45 @@ wall, etc.).
 
 ## Starter
 
-* To indicate a false start, the starter will circle the swimmer's lane number(s) and initiate a call with the referee, something "I have a possible false start", and show the clipboard
-to the referee. If the referee also confirms the same swimmer, it is a false start (and a discussion over what may have caused it).  If determined to actually be a false start, the starter will write up the DQ slip (the ref will provide one).
-* The starter will take order of finish for the 50m and 100m events (start end).  If the CJ appears to be not in position for OOF for a 25m event, the starter will attempt to record
-* Turn in the program to the data table at the end of the meet, labelled at the top with "Starter" and your name.
+* To indicate a false start, the starter will mark the swimmer's lane number(s) and initiate a call with the referee, something "I have a possible false start", and show the clipboard
+to the referee. If the referee also confirms the same swimmer, it is a false start (and a discussion over what may have caused it).  If determined to actually be a false start, the starter will write up the DQ slip (the ref will provide one) and will sign it as the judge.
+* The starter will take order of finish (OOF) for the 50m and 100m events (start end).  The CJ will get the OOF for 25m events.  
+* Turn in the program to the data table at the end of the meet, labelled at the top with "SR (number)" and your name.
 * If there is a lane with no swimmer and there should be one, cross off that name/lane on your program.
-* If there is a lane which should not have a swimmer and one swims, note that there is a swimmer in that lane, maybe writing "swimmer" (as you won't be able to get the name). This could happen
-if someone swims in the wrong heat or lane, or if heats have been collapsed, or swimmers moved around.  Clerk of Course will generally notify the referee and maybe the starter if there is time.
+* If there is a lane which should not have a swimmer and one swims, note that there is a swimmer in that lane, maybe writing "swimmer" (as you won't be able to get the name). This could happen if someone swims in the wrong heat or lane, or if heats have been collapsed, or swimmers moved around. We may have alternates seeded into heats.
+* Clerk of Course will generally notify the referee andmaybe the starter when changes happen, as a best effort attempt.
 
 ## Jursidiction
 
-* Six S&Ts will be used, two at each end and two will be off. We have a rotation schedule that allows for 4 strokes on and two strokes break. We will use off-ST for 
+* Six STs will be used, two at each end and two will be off. We have a rotation schedule that allows for 4 strokes on and two strokes break. We will use off-ST for 
 medley relay take off judges.
-* Each S&T will watch 3 lanes and half the pool.
-* S&T will be positioned as follows:
+* Each ST will watch 3 lanes and half the pool.
+* ST will be positioned as follows:
   * lanes 1,2,3 on the line between 2 and 3 (two lanes to one side, one to the other)
   * lanes 4,5,6 on the line between 4 and 5 (two lanes to one side, one to the other)
-* Step up to the wall when the swimmer is in your jurisdiction, and step back when they leave.
+* Be sure to mirror your partner on the other side of the pool.  If you're both not in the same spot (lane line), double check your position and fix it accordingly.
+* Step up to the wall when the swimmer is in your jurisdiction, and step back when they leave (half pool).
 * You will need to step fully to the edge and lean over the edge to see the touch.
 * At the start end, stay back for the start (3 ft or more), and step forward after the start.  If you see timers too close to the start, remind them too to step back.
 * Freestyle events will have ST at corners (lane 1 and lane 6 sides), watching that the swimmer touches the wall (as well as other potential violations).
 * STs will rotate after each event as follows, according to the schedule.
-  * after butterfly (events 1-10)
-  * after free (events 11-20)
+  * after MR and butterfly (events 1-10)
+  * after freestyle (events 11-20)
   * after breast (events 21-30)
   * 10 minute break
-  * after back (events 31-40)
+  * after backstroke (events 31-40)
   * after IM (events 41-46)
   * 10 minute break
   * relays (events 47-49) [complete]
-* We will rotate clockwise.
+* We will rotate clockwise.  Start lane 4-6 rotates to Off, and Turn lane 1-3 rotates to Off.
 * After the break we will do the 8U relay and the 200 FR
-* For relay take off judging, we will watch all 6 lanes (from the outside of lane 1 and 6):
-  * 200m MR (events 1,2) -- 4 ST in stoke and turn positions, and 2 take-off judges on the start end (off-ST).
+* For relay take off judging, we will watch all 6 lanes (from the outside of lane 1 and 6). 
+  * 200m MR (events 1,2) -- 4 ST in stoke and turn positions, and 2 off-ST at the start end take-off judges.
   * 100m 8U FR (event 47) -- all 4 ST judges will be on corners and act as take-off judges for relay exchanges.
   * 200m FR (events 48,49) -- all 4 ST judges will be on corners. Turn end will watch for the touch, and start end will handle take-off relay exchanges.
 * Take off judges (TOJ) will watch all 6 lanes, looking for the feet of the outgoing swimmer to leave the wall, and then at the incoming swimmer to be sure they have touched.  If the touch happens
 before the feet leave, circle that swimmer number on the TOJ sheet.  If touch has not happened, mark an X in that swimmer number.  Do not raise your arm for this call.
 We require dual confirmation.  The referee will confer with the closest TOJ. If there is no violation, they will not check the other TOJ. 
-* The ST will need to look for suit violations.  Please raise your hand if you see this and note it on your program.
+* The ST will watch for for suit violations.  Please raise your hand if you see this and note it on your program.
   * Improper suits
   * We will try to have identified any suit waivers in advance.
-
