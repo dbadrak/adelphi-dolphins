@@ -15,7 +15,7 @@
 * We will have our officials briefing at 8:00am.  The location will be at the far side of the pool house by the gear pickup (changes will be announced).
 * The meet starts at 8:30am, please be in position by 8:25am.
 * Please give the rule book and handbook a re-read before arriving at the meet:
-  * [2026 Rules Mmini](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-mini-rulebook.pdf)
+  * [2026 Rules Mini](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-mini-rulebook.pdf)
   * [2026 Rules Full](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2026-rulebook.pdf)
   * [2026 PMSL Handbookk](https://www.princemont.org/_files/ugd/b37408_e19c4f7f6b8e45c7bcc46297309a86fb.pdf)
 
