@@ -37,6 +37,8 @@ Get [this document](pmsl-2026-a-protocol-jurisdiction.pdf)
 
 ## Stoke Briefing
 
+A few additional notes, we will be reading the full stroke briefing.
+
 * Backstroke
   * Watch for grabbing on the lane rope and pulling, not just pushing away.
   * Resubmerge after the flags immediately before finish ok now
@@ -51,10 +53,11 @@ This means one two from each foot on the wall.
   * back finish on back, watch for flip turns
 * Freestyle Relay
 * Medley Relay
-* The benefit of the doubt goes to the swimmer.
-* If you see a violation, raise your hand for 3-5 seconds, and jot down what you observed on the program.  This is not a DQ necessarily, but an invitation for a discussion.
-You write it down as you may have a number of violations in a short time period and you have to explain to the referee or CJ when they chat with you.
-* Be ready to describe your observation in terms of the rule book style of violation.
+* All Strokes
+  * The benefit of the doubt goes to the swimmer.
+  * If you see a violation, raise your hand for 3-5 seconds, and jot down what you observed on the program.  This is not a DQ necessarily, but an invitation for a discussion.
+  You write it down as you may have a number of violations in a short time period and you have to explain to the referee or CJ when they chat with you.
+  * Be ready to describe your observation in terms of the rule book style of violation.
 If it is a single hand touch, note which hand, and where the other hand was located.  Note where the violation occurs (which pool length, which stroke for IM, approaching the turn or leaving the
 wall, etc.).
 
