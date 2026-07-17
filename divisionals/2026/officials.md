@@ -21,7 +21,7 @@
 
 ## Pool Details
 
-![Pool Layout](images/competition-pool.drawio.png)
+[Pool Layout](https://github.com/dbadrak/adelphi-dolphins/blob/main/images/competition-pool.drawio.png)
 
 * The pool is 25m, with backstroke flags at 5m on both ends.
 * It is 5 ft deep throughout the course, at both the start and turn ends.
@@ -29,7 +29,7 @@
 * The start end is closest to the fence. The turn end is closest to the pool house. There are 6 lanes.
 * The lane lines are marked in red for 15m (each direction). We'll have a marking on the pool deck (by the diving boards) for 15m. We will observe this with a Chief Judge (CJ).
 * We will not walk for stroke in any event.
-* The coping stones have a 1/2 inch lip from the wall.
+* There is 1/2 inch lip at the edge of the pool.
 * There is no gutter.  The top edge of the pool is about 6 inches or more from the water line.
 * For 25m events (8U events, 10U butterfly), the timers will move to the turn end, which will be the finish end for the swimmers.  A CJ will be located at the turn end.
 
