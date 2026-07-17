@@ -37,10 +37,12 @@
 
 * Backstroke
   * Watch for grabbing on the lane rope and pulling, not just pushing away.
-  * Resubmerge after the flags immediately before finish
+  * Resubmerge after the flags immediately before finish ok now
 * Butterfly
+  * Resubmerge after the flags immediately before finish ok now
 * Breakstroke
 * Freestyle
+  * Resubmerge after the flags immediately before finish ok now
 * Individual Medley
   * back finish on back, watch for flip turns
 * Freestyle Relay
