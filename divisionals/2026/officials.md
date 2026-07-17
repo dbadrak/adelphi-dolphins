@@ -122,3 +122,4 @@ We require dual confirmation.  The referee will confer with the closest TOJ. If 
 * [Coaches and Representative Information](pmsl-2026-a-coaches.pdf)
 * [Notable Rules and Changes](pmsl-2026-a-rules.pdf)
 * [Information and Rules Combined](pmsl-2026-a-coaches+rules.pdf)
+* [USA Swimming Officials Briefing](officials-briefing-june-2026.pdf)
