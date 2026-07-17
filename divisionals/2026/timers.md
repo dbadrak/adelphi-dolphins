@@ -31,4 +31,5 @@ clockwise (to your left, around the slide, towards the shallow end).
 * Please turn your phone to silent or off. If you must take a call, alert the head timer and they will fill in or find a substitute.  No cameras behind the
 start area.
 * For backstroke events, timers (and swimmers) may not provide legs for swimmers.
+* If a swimmer uses a towel in the water for a backstroke event, please remove the towel from the water and area after they have started.
 * Please return the watches and clipboards to the data table upon completion of the meet.
