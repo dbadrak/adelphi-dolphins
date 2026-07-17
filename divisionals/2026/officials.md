@@ -1,5 +1,7 @@
 # 2026 PSML Divisional A Championship Officials Information 
 
+Get [this document](pmsl-2026-a-protocol-jurisdiction.pdf)
+
 ## Preparation 
 
 * Thank you for volunteering!
