@@ -1,7 +1,5 @@
 # 2026 PSML Divisional A Championship Officials Information 
 
-Get [this document](pmsl-2026-a-protocol-jurisdiction.pdf)
-
 ## Preparation 
 
 * Thank you for volunteering!
@@ -117,6 +115,7 @@ We require dual confirmation.  The referee will confer with the closest TOJ. If 
 
 ## Links
 
+* [This Document](pmsl-2026-a-protocol-jurisdiction.pdf)
 * [Officials List](pmsl-2026-a-officials-list.pdf)
 * [Officials Schedule](pmsl-2026-a-schedule.pdf)
 * [Coaches and Representative Informatoion](pmsl-2026-a-coaches.pdf)
